@@ -15,6 +15,6 @@ xlrd == 1.2.0
 csv23 == 0.1.5
 firebase-admin == 2.18.0
 google-cloud == 0.34.0
-Flask-Cors == 3.0.8
+Flask-Cors == 3.0.9
 
 
